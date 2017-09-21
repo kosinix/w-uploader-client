@@ -1,3 +1,7 @@
+Simple HTML5 uploader for express
+
+* Multiple uploads 
+
 # REQUIREMENTS
 
 * nodejs + npm

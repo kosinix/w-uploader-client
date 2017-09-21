@@ -1,7 +1,7 @@
 {
-  "name": "w-uploader-client",
+  "name": "w-uploader-client-simple",
   "version": "1.0.0",
-  "description": "HTML5 uploader for express",
+  "description": "Simple HTML5 uploader for express",
   "main": "app.js",
   "dependencies": {
     "express": "^4.15.4",
